@@ -9,12 +9,12 @@ The GUI presents a visual simulation of the blocks for NES Stack-Up along with R
 
 The controls are as follows, and are mapped for convenience based on the layout of the in-game 'Direct' mode. I would note that the controls can easily be remapped by editing the event handler at the bottom of the script.
 
-Q - Move Left
-E - Move Right
-W - Move Up
-S - Move Down
-A - Open Hands
-D - Close Hands
-U - Undo error (clear illegal move red screen)
-R - Reset (Reset blocks and hands to default starting position)
+* Q - Move Left
+* E - Move Right
+* W - Move Up
+* S - Move Down
+* A - Open Hands
+* D - Close Hands
+* U - Undo error (clear illegal move red screen)
+* R - Reset (Reset blocks and hands to default starting position)
 
